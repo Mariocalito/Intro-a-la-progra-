@@ -1,0 +1,7 @@
+C:\Users\AsusVivoBook\Desktop\1° ciclo 2023\INTRO A LA PROGRA (PRÁCTICA)\T3_MC_1093222\obj\Debug\net6.0-windows\T3_MC_1093222.csproj.AssemblyReference.cache
+C:\Users\AsusVivoBook\Desktop\1° ciclo 2023\INTRO A LA PROGRA (PRÁCTICA)\T3_MC_1093222\obj\Debug\net6.0-windows\T3_MC_1093222.Form1.resources
+C:\Users\AsusVivoBook\Desktop\1° ciclo 2023\INTRO A LA PROGRA (PRÁCTICA)\T3_MC_1093222\obj\Debug\net6.0-windows\T3_MC_1093222.csproj.GenerateResource.cache
+C:\Users\AsusVivoBook\Desktop\1° ciclo 2023\INTRO A LA PROGRA (PRÁCTICA)\T3_MC_1093222\obj\Debug\net6.0-windows\T3_MC_1093222.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AsusVivoBook\Desktop\1° ciclo 2023\INTRO A LA PROGRA (PRÁCTICA)\T3_MC_1093222\obj\Debug\net6.0-windows\T3_MC_1093222.AssemblyInfoInputs.cache
+C:\Users\AsusVivoBook\Desktop\1° ciclo 2023\INTRO A LA PROGRA (PRÁCTICA)\T3_MC_1093222\obj\Debug\net6.0-windows\T3_MC_1093222.AssemblyInfo.cs
+C:\Users\AsusVivoBook\Desktop\1° ciclo 2023\INTRO A LA PROGRA (PRÁCTICA)\T3_MC_1093222\obj\Debug\net6.0-windows\T3_MC_1093222.csproj.CoreCompileInputs.cache
